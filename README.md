@@ -10,3 +10,11 @@
  ## Contact Information for this Repository
  James Perry james.l.perry@accenturefederaldefense.com
  
+ ### javascipt file usage
+ 1. How to use it
+ 2. How to update it 
+ 3. Where to use it
+ 4. Link to the demo on the sharepoint site.
+
+
+ 
